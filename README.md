@@ -5,3 +5,6 @@ We are provided with daily historical sales data by one of the largest Russian s
 After extensive EDA and feature engineering built <b>CATBOOST,LGBM and XGBOOST</b> models and averaged the predictions from these models as the final prediction.
 
 Please view the jupyter notebook at : https://nbviewer.ipython.org/github/Bhujith10/Predict-Future-Sales/blob/main/predict-future-sales-vbm-updated.ipynb
+
+
+You can download the data at : https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/data
